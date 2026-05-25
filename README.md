@@ -140,12 +140,6 @@ FinTrack/
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
----
-
-## 🧑‍💻 Author
-
-**Ravi Vishwakarma**  
-[GitHub](https://github.com/Ravik27280) | [LinkedIn](https://www.linkedin.com/in/ravi-vishwakarma27280)
 
 ---
 
